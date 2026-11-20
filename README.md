@@ -1,4 +1,4 @@
-# DialKey — mises à jour
+# Mises à jour de DialKey
 
 Versions publiées de DialKey (composition par raccourci clavier pour téléphones Yealink), FBI Informatique SA.
 
